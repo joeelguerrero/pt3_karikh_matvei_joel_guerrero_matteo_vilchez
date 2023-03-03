@@ -150,3 +150,19 @@ footer ul li a{
     width: 35%;
     height: 35%;
 }
+.texto{
+    color:black;
+    text-align: center;
+    font-size: 300%;
+}
+.texto_ing{
+    color:black;
+    text-align: justify;
+    font-weight: bold;
+    font-size: 150%;
+}
+.ingre{
+    color:black;
+    text-align: justify;
+    font-size: 150%;
+}
